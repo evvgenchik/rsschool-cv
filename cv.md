@@ -47,5 +47,5 @@ I enjoy taking on new challenges. The study is my passion. I’m a constant lear
 ### Languages
 
 - Russian - native
-- Ukranina - fluent 
+- Ukraninan - fluent 
 - English - intermediate 
