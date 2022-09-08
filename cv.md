@@ -19,7 +19,7 @@
 
 ### About me
 
-I enjoy taking on new and complex challenges. The study is my passion! I’m a constant learner with a passion for Frontend Development.
+I enjoy taking on new challenges. The study is my passion. I’m a constant learner with a passion for Frontend Development!
 
 ### Skills
 
