@@ -1,7 +1,11 @@
 
 # Evgeniy Onishchenko
 
+<<<<<<< HEAD
 <img src="./icon/MYph.jpg" width="35" height="45" alt="photo"/> 
+=======
+![photo](<img src="./icon/MYph.jpg" width="35" height="45"/>)
+>>>>>>> 21d2c7456ad81009116dfc1b3d632cfb046cd5d5
 ------
 
 ### My works
