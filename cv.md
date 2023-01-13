@@ -1,7 +1,7 @@
 
 # Evgeniy Onishchenko
 
-<image src="./icon/MYph.jpg" width="35" height="45" alt="photo"/> 
+<image src="./icon/MYph.jpg" width="250" height="350" alt="photo"/> 
 
 ### My works
 
