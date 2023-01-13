@@ -1,10 +1,14 @@
 
 # Evgeniy Onishchenko
 
-![photo](/../../my%20photo.jpg)
+![photo](/icon/MYph.jpg)
 ------
 
+### My works
 
+- https://rolling-scopes-school.github.io/evvgenchik-JSFE2022Q3/codejam/main/ - simple shuffle game;
+- https://rolling-scopes-school.github.io/evvgenchik-JSFE2022Q3/songsbird/start.html - birds quiz;
+-  https://boisterous-cajeta-64e3a7.netlify.app/ - online shop;
 
 ###   My contacts
 
@@ -20,30 +24,22 @@
 
 ### About me
 
-I enjoy taking on new challenges. The study is my passion. I’m a constant learner with a passion for Frontend Development!
+I enjoy taking on new challenges. The study is my passion. I’m a constant learner with a passion for Frontend Development! Now I can confidently say that finally I have found my life path.
 
 ### Skills
 
    - HTML
    - CSS/SASS
-   - JavaScript(Basic)
+   - JavaScript
    - Git
-
-### Code example
-
-```javascript
- function shuffle(array) {
-      for (let i = array.length - 1; i > 0; i--) {
-         let j = Math.floor(Math.random() * (i + 1));
-         [array[i], array[j]] = [array[j], array[i]];
-      }
-    }
-```
+   - TypeScript
 
 ### Education
 
    + Lipetsk State Technical University
      - Law school
+   + Rolling Scopes School
+     - JS / FRONT-END 
 
 ### Languages
 
