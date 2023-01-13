@@ -1,14 +1,14 @@
 
 # Evgeniy Onishchenko
 
-![photo](/icon/MYph.jpg)
+<img src="./icon/MYph.jpg" width="35" height="45" alt="photo"/> 
 ------
 
 ### My works
 
-- https://rolling-scopes-school.github.io/evvgenchik-JSFE2022Q3/codejam/main/ - simple shuffle game;
-- https://rolling-scopes-school.github.io/evvgenchik-JSFE2022Q3/songsbird/start.html - birds quiz;
--  https://boisterous-cajeta-64e3a7.netlify.app/ - online shop;
+- [](https://rolling-scopes-school.github.io/evvgenchik-JSFE2022Q3/codejam/main/) - simple shuffle game;
+- [](https://rolling-scopes-school.github.io/evvgenchik-JSFE2022Q3/songsbird/start.html) - birds quiz;
+- [](https://boisterous-cajeta-64e3a7.netlify.app/) - online shop;
 
 ###   My contacts
 
